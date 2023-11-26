@@ -1,8 +1,8 @@
-- 😊 Hi, I’m Onur (@honourrable)
-- 👀 I work in Data Science and Artificial Intelligence fields. I have experienced some Machine Learning and Deep Learning projects by using datasets with different data types to achieve the relevant goals.
-- 🌱 I’m currently learning fundamentals of Data Science and its applications. Python and R are the languages that I am excited to develop my skills on. Mastering in Data Science is my priority of all!
-- 💞️ I’m looking to collaborate on projects which include analysis of datasets and performing tasks on them by using sophisticated algorithms.
-- 📫 You can simply reach me out via my e-mail address that I provided on my GitHub profile.
+- 😊 Hello, I’m Onur
+- 👀 I work in Data Science and Artificial Intelligence (AI) fields. I have completed/participated in some classical Machine Learning and Deep Learning projects.
+- 🌱 I’m currently doing research on Explainability in AI (XAI) and specific methods in Natural Language Processing.
+- 💞️ I’m looking to collaborate on projects in the scope of my research field of interest.
+- 📫 You can simply reach me out via my e-mail address.
 
 <!---
 honourrable/honourrable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
